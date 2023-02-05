@@ -1,6 +1,6 @@
 ##  Olá! Meu Nome é Carla Marques 🖐️
 
-[![ linkedin  ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-marques/)
+[![ linkedin  ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-marques-ab1988219/)
 [![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carla_marks0/)
 
 ![ Fraga GitHub stats ](https://github-readme-stats.vercel.app/api?username=carlamarkdev&show_icons=true&theme=dracula&count_private=true)
