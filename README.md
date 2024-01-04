@@ -2,7 +2,7 @@
 
 [![ linkedin  ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-marques-ab1988219/)
 [![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carla_marks0/)
-*Software Enginner
+ Software Enginner
 ##  Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
